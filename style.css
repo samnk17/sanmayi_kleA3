@@ -1,0 +1,51 @@
+#btn1{
+    background-color: rgb(129, 157, 168);
+    color: white;
+   padding: 10px 30px;
+   margin: 20px 100px; 
+   border-radius: 20px;
+}
+#btn1:hover{
+    background-color: black;
+    color: white;
+}
+#btn2{
+    background-color: black;
+    color: white;
+}
+.img1{
+    height: 30px;
+    width: 100px;
+    
+}
+a{
+    text-decoration: none;
+}
+
+body{
+    text-align: center;
+    /* background-color: black;
+    color: white; */
+}
+
+
+h1{
+    font-size: xx-large;
+    font-weight: 100;
+    font-style: italic;
+}  
+header{
+display: flex;
+justify-content: space-around;    
+}
+nav{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.videos{
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+}
